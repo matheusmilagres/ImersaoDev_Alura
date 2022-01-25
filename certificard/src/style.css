@@ -1,0 +1,99 @@
+  /* propriedade visual: valor */
+
+body {
+  background-color: #FED03D;
+  font-family: 'Roboto', sans-serif;
+}
+
+section {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  background-color: white;
+  padding: 15px;
+  border-radius: 5px; 
+  max-width: 500px;  
+  box-shadow: 5px 5px 5px black;
+}
+
+.box-redes {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  background-color: white;
+  padding: 15px;
+  border-radius: 5px; 
+  max-width: 200px;  
+  box-shadow: 5px 5px 5px black;
+
+}
+
+section h1 {
+  font-size: 25px;
+  text-align: center;
+}
+
+header {
+  background-image: url('https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/110771970/original/d00e69687a1ccd762d329c20dedb894ddff80747/teach-programing-practically-w-real-world-applications.jpg');
+  background-size: cover;
+  border-radius: 5px;
+  height: 80px;
+}
+
+div {
+  background-color: #282c34;
+  border-radius: 5px;
+  border: 1px solid black;
+  margin: 5px;
+  padding: 15px;
+  color: white;
+}
+
+.redes-sociais {
+  background-color: #282c34;
+  border-radius: 5px;
+  border: 1px solid black;
+  margin: 5px;
+  padding: 15px;
+  color: white;
+  text-align: center;
+}
+
+.profile {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  border: 8px solid white;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;  
+  transform: translateY(-50%);
+}
+
+.github {
+  width: 24px;
+  height: 24px;
+  margin-right: 15px;
+}
+
+.linkedin {
+  width: 24px;
+  height: 24px;
+  margin-right: 15px;
+}
+
+.instagram {
+  width: 24px;
+  height: 24px;
+  margin-right: auto;
+}
+
+.carbon-now {
+  margin-top: 15px;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+}
